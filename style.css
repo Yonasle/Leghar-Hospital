@@ -490,6 +490,9 @@ body {
   .home-partner {
     display: none;
   }
+  .home_last{
+    display: none;
+  }
 
   .sponsor-home {
     display: none;
