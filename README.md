@@ -81,7 +81,7 @@
 
 ## 🚀 Video about the project <a name="live-demo"></a>
 
-- [loom link]
+- [https://www.loom.com/share/49035b3f357d4b6087bdc6b7a7631ad6]
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
@@ -138,7 +138,7 @@ Not Available
 - Twitter: [@twitterhandle](https://twitter.com/Yonasls)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/yonas-lemma-b8848823a/)
 
--Summarized video of my project: [https://www.loom.com/share/d657c2204b39416099a101960555465e]
+-Summarized video of my project: [https://www.loom.com/share/49035b3f357d4b6087bdc6b7a7631ad6]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
